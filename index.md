@@ -13,7 +13,7 @@ I am Lu He, a PhD Candidate in the Department of Informatics at the University o
 Rebel base <br />
 [Yavin] <br />
 Galaxy far far away<br />
-Email: [lu(dot)he(at)uci(dot)edu]
+Email: [lu.he@uci.edu]
 
 
 [Yavin]: https://en.wikipedia.org/wiki/Yavin
